@@ -1,5 +1,5 @@
 # formikForm
-# Take make it work you will need to clone it or download it than run it with npm start inside inside the bash terminal.
+# Take make it work you will need to clone it or download it than run it with npm start inside the bash terminal.
 <p>formik form Assignment</p>
 <p>This is a small formik app that takes in user input using formik and react and outputs events and an objects.</p>
 <h3>the req where as such</h3>
