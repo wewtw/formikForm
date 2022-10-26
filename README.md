@@ -1,5 +1,5 @@
 # formikForm
-# MIT License
+# Take make it work you will need to clone it or download it than run it with npm start inside inside the bash terminal.
 <p>formik form Assignment</p>
 <p>This is a small formik app that takes in user input using formik and react and outputs events and an objects.</p>
 <h3>the req where as such</h3>
@@ -18,3 +18,4 @@ Your form should implement the following specific details:
     The submit button should have an ID submitBtn
 </p>
 <h3>Readmap: take user input and convert it into json data than store them in a seperate file called data. Make other actions possible insde the app like my profile and some configurations based on user pref.</h3>
+<p>MIT License</p>
