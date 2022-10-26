@@ -1,4 +1,5 @@
 # formikForm
+# MIT License
 <p>formik form Assignment</p>
 <p>This is a small formik app that takes in user input using formik and react and outputs events and an objects.</p>
 <h3>the req where as such</h3>
